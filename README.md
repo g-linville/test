@@ -1,2 +1,2 @@
 # test
-Repo for testing stuff with gptscript
+Repo for testing stuff with gptscript.
